@@ -1,6 +1,6 @@
 <?php
 // 데이터베이스 연결 설정
-$db_host = 'kg-rds-instance.cl9ovu7zvobc.ap-northeast-2.rds.amazonaws.com';
+$db_host = '';
 $db_user = 'admin';
 $db_pass = 'lab-password';
 $db_name = 'web01';
